@@ -1,0 +1,12 @@
+#canvas {
+    background-color: #000 !important;
+    margin: auto;
+    top: auto;
+    bottom: auto;
+}
+
+.page {
+    display: flex;
+    vertical-align: middle;
+    height: 100vh;
+}
